@@ -1,0 +1,8 @@
+name: 30-Days-ML
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
